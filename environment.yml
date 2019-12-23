@@ -1,0 +1,6 @@
+name: christmas-hack
+channels:
+- defaults
+dependencies:
+- python=3.7
+- flask
