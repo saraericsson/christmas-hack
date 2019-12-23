@@ -10,3 +10,5 @@ conda activate christmas-hack
 ```
 env FLASK_APP=app.py flask run
 ```
+
+Open browser to http://localhost:5000/
